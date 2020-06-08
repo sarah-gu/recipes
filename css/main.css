@@ -1,3 +1,19 @@
 .cardsize {
     height: 200px
 } 
+body {
+	background-color: #EAE7DC;
+}
+.jumbotron {
+	background-color: #e6be8a;
+}
+.navbar {
+	background-color: #e6be8a;
+}
+.btn {
+	background-color:  #FFFFFF;
+	border-color: black;
+}
+footer {
+	background-color: #e6be8a;
+}
